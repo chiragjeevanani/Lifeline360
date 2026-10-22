@@ -1,0 +1,9 @@
+node_modules
+dist
+.agents
+.DS_Store
+*.log
+
+# Client quotation / scope document (confidential) and research dumps
+*.pdf
+scripts/awwwards_results.json
